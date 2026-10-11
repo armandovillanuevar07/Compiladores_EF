@@ -1,0 +1,7 @@
+int edad = 20;
+float nota = 17.5;
+
+string curso = "Compiladores";
+string ciudad = "Arequipa";
+
+int total = edad + 5;

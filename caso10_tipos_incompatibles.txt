@@ -1,0 +1,5 @@
+int a = "hola";
+string s = 5;
+int x = 3.5;
+float f = 2;
+string t = "a" + "b";
